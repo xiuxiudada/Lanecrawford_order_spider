@@ -2,7 +2,7 @@ import parsel
 import pandas as pd
 import requests as req
 
-ck = "NEWVISITOR=newVisitor; overridingCountry=HK; overridingCountry=HK; impliedGender=""; lastVisitedLocale=en_US; lastVisitedLocale=en_US; NEWVISITOR=newVisitor; LCNetwork=(null); LCNoOfVisit=28; LCSessionVisitedDuration=146; LCSessionLastTS=true"
+ck = ""
 
 
 def load_net_css_file():
